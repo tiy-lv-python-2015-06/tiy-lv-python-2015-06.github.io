@@ -28,7 +28,7 @@ defaults:
 # Custom variables
 version: "1.1.0"
 github_url: "https://github.com/tiy-lv-python-2015-06/"
-twitter_url: "@theironyard"
+twitter_url: "https://twitter.com/theironyard"
 
 # Options
 custom_header: false
