@@ -14,7 +14,7 @@ We don’t believe you can really learn to program by watching a few videos and 
 
 This work should be completed by June 26th. I will assume that you have completed this work before class, so you will likely feel very far behind if you haven’t finished when we start class on June 29th. If you have ANY questions at all, please reach out to me at <jeff.newburn@theironyard.com>.
 
-In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/joeltaddei). Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
+In order to complete some of these tasks, you will need to [register for an account with Treehouse](http://referrals.trhou.se/omnicron). Treehouse is free for 14 days (which should be more than enough to finish the required courses), and is $25/month after the trial.
 
 ## Objectives
 
@@ -41,7 +41,7 @@ GitHub is a web-based hosting and communication service for software development
 
 ### Treehouse
 
-Sign up for an account at [Treehouse](http://referrals.trhou.se/joeltaddei). Signing up does require a credit card, but you will have a free trial for the first 14 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
+Sign up for an account at [Treehouse](http://referrals.trhou.se/omnicron). Signing up does require a credit card, but you will have a free trial for the first 14 days. If you do not have any access to a credit card, that is ok! Let me know via email and I can help you make that happen.
 
 ## Topic 1: Your Brain
 
