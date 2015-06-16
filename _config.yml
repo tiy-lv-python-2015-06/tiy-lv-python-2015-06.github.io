@@ -1,0 +1,36 @@
+# Site settings
+title: Python/Data Science The Iron Yard
+description: > # this means to ignore newlines until "baseurl:"
+  Website for The Iron Yard Greenville Python course.  All prework
+  syllabus and instructions for getting your computer ready can be found
+  here."
+url: "http://tiy-lv-python-2015-06.github.io"
+email: "jeff.newburn@theironyard.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+github_url: "https://github.com/tiy-lv-python-2015-06/"
+twitter_url: "@theironyard"
+
+# Options
+custom_header: false
+custom_nav_footer: true
+reverse: false
