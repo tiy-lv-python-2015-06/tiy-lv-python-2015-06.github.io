@@ -50,7 +50,7 @@ Sign up for an account at [Treehouse](http://referrals.trhou.se/omnicron). Signi
 
 After reading these articles, please fill out the following survey:
 
-* [Prework Survey 1](https://docs.google.com/a/theironyard.com/forms/d/1XpyTavbboxeViKNdosi6mhuUDGxHcqP4eXrYZaKMB-g/viewform?usp=send_form)
+* [Prework Survey 1](http://goo.gl/forms/eHehcR6BSL)
 
 ## Topic 2: Python
 
@@ -95,7 +95,7 @@ Almost done.  Although we're not going to talk about them in the first few weeks
 
 Once you have finished the prework given above, complete the following survey:
 
-* [Prework Survey 2](https://docs.google.com/forms/d/15EjH5FJZGiYtD98lWOxSGLbPu8Tnr5DhAtQaDHHWwYE/viewform?usp=send_form)
+* [Prework Survey 2](http://goo.gl/forms/zhv0vUEPyD)
 
 Whew, you did it. Now, your only remaining assignment is to get some sleep before class starts. You're going to need it!
 
