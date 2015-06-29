@@ -11,6 +11,8 @@ title: Week 1 Day 1
 ### Notebooks from Class
 * [Variables](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/01-Variables.ipynb)
 * [Input/Output](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/02-Input-Output.ipynb)
+[If and Loops](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/03-If-and-loops.ipynb)
+[Book Cost Calculator](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/Exercise-01-Store-Cost.ipynb)
 
 ### Homework
 * [Approximating Square Root](https://github.com/tiy-lv-python-2015-06/approximate-square-root)
