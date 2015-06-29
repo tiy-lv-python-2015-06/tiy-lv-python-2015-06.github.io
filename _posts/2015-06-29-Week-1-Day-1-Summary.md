@@ -9,8 +9,8 @@ title: Week 1 Day 1
 * Computational thinking
 
 ### Notebooks from Class
-* [Variables] (https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/01-Variables.ipynb)
-* [Input/Output] (https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/02-Input-Output.ipynb)
+* [Variables](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/01-Variables.ipynb)
+* [Input/Output](https://github.com/tiy-lv-python-2015-06/class-notes/blob/master/week1/02-Input-Output.ipynb)
 
 ### Homework
 * [Approximating Square Root](https://github.com/tiy-lv-python-2015-06/approximate-square-root)
