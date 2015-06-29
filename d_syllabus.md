@@ -15,7 +15,7 @@ Jeff Newburn
 
 ## Schedule
 
-Class is from June 28th to September 25th.
+Class is from June 28th to September 18th.
 
 Lecture is from 9:00 AM to 12:00 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early. We may alter this schedule for particular days and will let you know at least 24 hours ahead of time.
 
