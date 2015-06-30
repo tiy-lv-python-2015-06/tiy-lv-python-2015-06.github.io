@@ -22,3 +22,11 @@ title: Week 1 Day 1
 
 ### Resources
 * [Github Markdown](https://help.github.com/articles/github-flavored-markdown/)
+
+### Homework Turn in steps
+1. Commit changes to the repo
+2. Push the changes to your fork
+3. On github.com go to your fork and click 'Pull Requests'
+4. Choose New Pull Request
+5. Put in a description
+6. Submit pull request
